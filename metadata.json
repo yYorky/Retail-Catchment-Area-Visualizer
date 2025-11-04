@@ -1,0 +1,7 @@
+{
+  "name": "Retail Catchment Area Visualizer",
+  "description": "An interactive map to analyze catchment areas for retail stores. Drop multiple pins to visualize travel times and get AI-powered insights on demographics, foot traffic, and competition using the Gemini API with Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
